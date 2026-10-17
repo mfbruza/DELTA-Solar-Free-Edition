@@ -1,0 +1,1 @@
+declare namespace Cloudflare {interface Env {DB:D1Database;ASSETS:Fetcher;DASHBOARD_USERNAME?:string;DASHBOARD_PASSWORD?:string;CREDENTIAL_ENCRYPTION_KEY?:string;}}
